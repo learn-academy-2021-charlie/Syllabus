@@ -63,11 +63,9 @@ fetch("https://api-url-here.com")
 
 ## Challenge
 - Create a React application that shows the user their current location and IP address
-- Use [this](https://ipapi.co/api/?shell#location-of-clients-ip) API and documentation
+
+- Use [this](https://ipapi.co/api/?shell#location-of-clients-ip) API and documentation, **hint**: https://ipapi.co/json
 
 ## Stretch Challenge
 - Use an external API and docs to create an application of your choice
 - Here is the [ Nasa API ](https://api.nasa.gov/)
-
-
-[ Back to Syllabus ](../README.md#unit-six-ruby-on-rails)
